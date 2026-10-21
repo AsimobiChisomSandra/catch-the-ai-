@@ -2,7 +2,7 @@
 
 A free, no-login web page that helps young people check AI answers before they trust them.
 
-**Live page:** https://asimobichisomsandra.github.io/catch-the-ai/
+**Live page:** https://asimobichisomsandra.github.io/catch-the-ai-/
 
 ## What it does
 1. The student types the question they asked the AI and pastes the answer.
@@ -20,6 +20,6 @@ Capstone project, Pan-African Youth Impact Bootcamp (PAYIB) Cohort 2.0.
 AI, Technology and Digitalization Team. Team Lead: Asimobi Sandra Chisom.
 *Think first. Ask second. Check third.*
 
-Source: https://github.com/AsimobiChisomSandra/catch-the-ai
+Source: https://github.com/AsimobiChisomSandra/catch-the-ai-
 
 Status: prototype for a pilot test.
